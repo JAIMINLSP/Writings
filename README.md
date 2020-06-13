@@ -1,5 +1,6 @@
 # Writings
 Contained here are writings of my own Work split into several main sections:
+- Philosophy and Religion (Matters concerning either Philosophy or Religion or both)
 - Empire (Matters concerning the Betterment of Humanity's Future and its Society)
 - My Life (Matters concerning the Reflections upon my Life)
 - Poetry (Any compositions that I wish to make)
