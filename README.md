@@ -2,11 +2,10 @@
 Contained here are writings of my own Work split into several main sections:
 - Philosophy and Religion (Matters concerning either Philosophy or Religion or both)
 - Empire (Matters concerning the Betterment of Humanity's Future and its Society)
-- My Life (Matters concerning My Reflections upon my Life)
 - Poetry (Any compositions that I have made)
 - Miscellany
 
-It will be worth noting that My Writings are Originally Written upon Paper with Pen, and so many entries within "My Life" will not be contained on this repository due to very personal content. Although this will be reconsidered later on in my life should I need to have them contained on this server.
+It will be worth noting that there is a section that exists called "My Life" whereby I reflect upon my life, however this section will not be uploaded here and only exists in hardcopy. All of my Writings are written on paper initially, and so "My Life" will stay as such due to its very personal nature.
 
 Files and Folders within any of the main sections will have a naming convention of:
 - [num]-[date]-[title]
