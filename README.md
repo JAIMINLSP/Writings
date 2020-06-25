@@ -1,7 +1,7 @@
 # Writings
 Contained here are writings of my own Work split into several main sections:
 - Philosophy and Religion (Matters concerning either Philosophy or Religion or both)
-- Empire (Matters concerning the Betterment of Humanity's Future and its Society)
+- World (Matters concerning the Betterment of Humanity's Future and its Society)
 - Poetry (Any compositions that I have made)
 - Miscellany
 
