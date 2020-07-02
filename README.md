@@ -14,6 +14,6 @@ It will be worth noting that there is a section that exists called "My Life" whe
 
 Files and Folders within any of the main sections will have a naming convention of:
 - [date]-[title]
-- For example: 2020_06_25-This_is_a_sample_file.txt
+- For example: 2020-06-25_This-is-a-sample-file.txt
 
-Where [date] is the date of creation of the entry in the format YYYY_MM_DD. [title] is the title of the entry.
+Where [date] is the date of creation of the entry in the format YYYY-MM-DD. [title] is the title of the entry.
