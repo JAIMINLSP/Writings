@@ -10,7 +10,7 @@ Contained here are writings of my own Work split into several main sections:
 - Poetry (Any compositions that I have made)
 - Miscellany
 
-It will be worth noting that there is a section that exists called "My Life" whereby I reflect upon my life, however this section will not be uploaded here and only exists in hardcopy. All of my Writings are written on paper initially, and so "My Life" will stay as such due to its very personal nature.
+It will be worth noting that there is a section that exists called "My Life" whereby I reflect upon my life, however this section will not be uploaded here and only exists in hardcopy.
 
 Files and Folders within any of the main sections will have a naming convention of:
 - [date]-[title]
