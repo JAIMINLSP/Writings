@@ -1,2 +1,2 @@
 # World
-Contained here are Matters concerning the Betterment of Humanity's Future and its Society.
+Contained here are matters concerning the betterment of humanity's future and its society.
