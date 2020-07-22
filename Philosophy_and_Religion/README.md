@@ -1,2 +1,2 @@
 # Philosophy and Religion
-Contained here are Matters concerning either Philosophy or Religion, or both.
+Contained here are matters concerning either philosophy or religion, or both.
