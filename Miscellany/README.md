@@ -1,2 +1,2 @@
 # Miscellany
-Contained in this Folder are miscellaneous Writings.
+Contained in this folder are miscellaneous writings.
