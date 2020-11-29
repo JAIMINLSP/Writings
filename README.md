@@ -1,4 +1,7 @@
 # Writings
+
+## Note If viewing on a mobile device, please click on "view code" to see the entries ##
+
 These Writings serve as an output for my thoughts. I like to think they are constructive and well thought out, but they may lack insight at the time of their writing. Therefore, I ask for those who read this to take these things into account:
 - The last thing I want to do is cause offence, be judgmental, or be arrogant. So, if you see elements of these things in my writings, please know that I do not wish for such elements to be there, and that they exist in error.
 - My thoughts can sometimes seem like those out of a fantasy, especially if I talk about a topic such as politics, the future, or religion. What I ask is simply forgiveness if I seem to be lacking in proper knowledge within these topics, but I would also like you to know that I try my best to be knowledgeable.
