@@ -1,6 +1,6 @@
 # Writings
 
-## Note If viewing on a mobile device, please click on "view code" to see the entries ##
+## Please note, If viewing on a mobile device, please click on "view code" to see the entries ##
 
 These Writings serve as an output for my thoughts. I like to think they are constructive and well thought out, but they may lack insight at the time of their writing. Therefore, I ask for those who read this to take these things into account:
 - The last thing I want to do is cause offence, be judgmental, or be arrogant. So, if you see elements of these things in my writings, please know that I do not wish for such elements to be there, and that they exist in error.
