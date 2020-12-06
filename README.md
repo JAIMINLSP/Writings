@@ -21,4 +21,6 @@ Files and folders within any of the main sections will have a naming convention 
 
 Where [date] is the date of creation of the entry in the format YYYY-MM-DD. [title] is the title of the entry.
 
+The following license applies to all the work within this repository:
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
